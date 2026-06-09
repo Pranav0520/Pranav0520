@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Data analyst in Dallas, TX. SQL, Python, and Power BI/Tableau, mostly on the messy parts — getting data clean, consolidated, and into a dashboard someone will actually use.
+Data analyst in Dallas, TX. SQL, Python, and Power BI/Tableau, mostly on the messy parts, getting data clean, consolidated, and into a dashboard someone will actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-grover-utd/?isSelfProfile=false)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavg0520@outlook.com)
