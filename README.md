@@ -10,6 +10,9 @@ Data analyst in Dallas, TX. SQL, Python, and Power BI/Tableau, mostly on the mes
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavg0520@outlook.com)
 [![Location](https://img.shields.io/badge/Dallas%2C%20TX-Based-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Dallas,+TX)
 
+![Open to Work](https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-2ea44f?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Pranav0520&color=1e40af&style=for-the-badge&label=Profile+Views)
+
 </div>
 
 ---
@@ -86,7 +89,7 @@ timeline
 
 ## Experience
 
-### Veracyte — Data Analyst Intern (Aug 2025 – Nov 2025)
+### Veracyte · Data Analyst Intern (Aug 2025 – Nov 2025)
 
 Worked on revenue-cycle analytics for the billing and claims side.
 
@@ -96,7 +99,7 @@ Worked on revenue-cycle analytics for the billing and claims side.
 - Set up 8 automated quality checks with alerting, so bad data got caught before it hit a report.
 - Pulled together the weekly revenue-cycle numbers for the ops team to help them decide which payer escalations and resubmissions to chase first.
 
-### Elite Marque — Data Analyst (Jun 2021 – Jun 2024)
+### Elite Marque · Data Analyst (Jun 2021 – Jun 2024)
 
 Mostly data standardization and getting reporting off of manual spreadsheets.
 
@@ -117,7 +120,7 @@ Predicting used-car prices and grouping customers for targeted pricing.
 
 Python, SQL, scikit-learn.
 
-### Az National Trucking — fleet safety analytics (big data)
+### Az National Trucking · fleet safety analytics (big data)
 
 Looking at unsafe-driving events across a 100-driver fleet.
 - Loaded 8,000+ geolocation records into HDFS on Cloudera Hadoop, queried with Hive and Impala, and connected Tableau over ODBC.
@@ -125,7 +128,7 @@ Looking at unsafe-driving events across a 100-driver fleet.
 
 Hadoop, Hive, Impala, Tableau.
 
-### Uber trip analysis — Power BI
+### Uber trip analysis · Power BI
 
 A dashboard for ride-sharing trip patterns.
 - Analyzed booking trends, revenue, and trip/payment/vehicle types.
@@ -141,7 +144,7 @@ Financial performance and COVID-19 impact using CMS data.
 
 Python, pandas, matplotlib, seaborn.
 
-### F1 data analysis — SQL & Tableau
+### F1 data analysis · SQL & Tableau
 
 Formula 1 race data from 1953–2020.
 - Designed a relational schema for race results, drivers, teams, and circuits.
@@ -207,6 +210,17 @@ Coursework worth mentioning: machine learning for business, big data analytics, 
 
 ---
 
+## GitHub
+
+<div align="center">
+
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav0520&show_icons=true&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&bg_color=0d1117)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav0520&layout=compact&hide_border=true&title_color=3b82f6&text_color=8b949e&bg_color=0d1117)
+
+</div>
+
+---
+
 ## At a glance
 
 ```mermaid
@@ -233,3 +247,9 @@ mindmap
       Forecasting
       Cohort analysis
 ```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e40af,100:1e3a8a&height=120&section=footer"/>
+
+</div>
