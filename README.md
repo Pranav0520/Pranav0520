@@ -4,11 +4,11 @@
 
 <div align="center">
 
-Data analyst in Dallas, TX. SQL, Python, and Power BI/Tableau, mostly on the messy parts, getting data clean, consolidated, and into a dashboard someone will actually use.
+Data analyst in San Francisco, CA. SQL, Python, and Power BI/Tableau, mostly on the messy parts, getting data clean, consolidated, and into a dashboard someone will actually use.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-grover-utd/?isSelfProfile=false)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavg0520@outlook.com)
-[![Location](https://img.shields.io/badge/Dallas%2C%20TX-Based-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Dallas,+TX)
+[![Location](https://img.shields.io/badge/San%20Francisco%2C%20CA-Based-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/San+Francisco,+CA)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-2ea44f?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Pranav0520&color=1e40af&style=for-the-badge&label=Profile+Views)
